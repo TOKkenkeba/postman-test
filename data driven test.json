@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Alice",
+        "genderResponse": {
+            "count": 399289,
+            "name": "Alice",
+            "gender": "female",
+            "probability": 0.99
+        },
+        "ageResponse": {
+            "count": 69230,
+            "name": "Alice",
+            "age": 56
+        },
+        "nationResponse":{
+            "count": 34105,
+            "name": "Alice",
+            "country": [
+                {
+                    "country_id": "CN",
+                    "probability": 0.155277078264786
+                },
+                {
+                    "country_id": "IT",
+                    "probability": 0.04764254117604371
+                },
+                {
+                    "country_id": "CM",
+                    "probability": 0.03484434225865627
+                },
+                {
+                    "country_id": "RO",
+                    "probability": 0.033925679057182884
+                },
+                {
+                    "country_id": "HK",
+                    "probability": 0.030597432470176968
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bob",
+        "genderResponse": {
+            "count": 534650,
+            "name": "Bob",
+            "gender": "male",
+            "probability": 0.99
+        },
+        "ageResponse": {
+            "count": 43997,
+            "name": "Bob",
+            "age": 70
+        },
+        "nationResponse":{
+            "count": 59099,
+            "name": "Bob",
+            "country": [
+                {
+                    "country_id": "DZ",
+                    "probability": 0.08308856254940905
+                },
+                {
+                    "country_id": "CN",
+                    "probability": 0.05488113920851557
+                },
+                {
+                    "country_id": "US",
+                    "probability": 0.041415856494116124
+                },
+                {
+                    "country_id": "LB",
+                    "probability": 0.03699243544956682
+                },
+                {
+                    "country_id": "EG",
+                    "probability": 0.031709684838565906
+                }
+            ]
+        }
+    }
+]
